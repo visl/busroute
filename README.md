@@ -1,15 +1,5 @@
 # Bus Route Challenge
 
-### Problem
-
-We are adding a new bus provider to our system. In order to implement a very
-specific requirement of this bus provider our system needs to be able to filter
-direct connections. We have access to a weekly updated list of bus routes
-in form of a **bus route data file**. As this provider has a lot of long bus
-routes, we need to come up with a proper service to quickly answer if two given
-stations are connected by a bus route.
-
-
 ### Task
 
 The bus route data file provided by the bus provider contains a list of bus
